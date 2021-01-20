@@ -9,10 +9,10 @@ The process of interpreting and categorizing the emotion or sentiment conveyed b
 ### Display
 This segment focuses on showing the calculated values as a visual representation to the viewer. Chart-studio is a great tool in python (and stand-alone) for displaying data in a visual manner using graphs and charts. Here, the saved CSV files contain the name of the city, the location coordinates (rounded off to two decimal places), and the sentiment value (positive and negative in different files) of that query, from that location. From these, the chart-studio tools take the coordinates from all the rows and plot it on the world map (scope = North America). After that, the sentiment values, in terms of percentages, are taken and a circle is plotted on those locations with the radius representing the value 
 ### Outputs
-![Allen1](https://github.com/allenalvin333/College4/blob/master/Images/Project/1.png)
-![Allen2](https://github.com/allenalvin333/College4/blob/master/Images/Project/2.png)
-![Allen3](https://github.com/allenalvin333/College4/blob/master/Images/Project/3.png)
-![Allen4](https://github.com/allenalvin333/College4/blob/master/Images/Project/4.png)
+![Allen1](https://github.com/allenalvin333/CollegeP4/blob/master/Images/1.png)
+![Allen2](https://github.com/allenalvin333/CollegeP4/blob/master/Images/2.png)
+![Allen3](https://github.com/allenalvin333/CollegeP4/blob/master/Images/3.png)
+![Allen4](https://github.com/allenalvin333/CollegeP4/blob/master/Images/4.png)
   
 <br/>
   
