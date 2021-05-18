@@ -1,4 +1,5 @@
 # College: Racism - Before and After George Floyd
+
 ### Scraping
 The process of extracting data from a website to retrieve its content. The received input is in HTML format. The tags are cleaned using stopwords and the required segment is saved for further use, usually in a csv format. This is a commonly used technique, the first to do after installing and importing all the necessary packages. I have chosen an article by FSU – Florida State University, to scrape data forgetting the names and coordinates of the capitals of all the states of USA. The scraped data is cleaned, numbers manipulated and allocated into three lists - latitudes, longitudes, and city names
 ### Sentiment Analysis
@@ -16,4 +17,5 @@ This segment focuses on showing the calculated values as a visual representation
 <br/>
   
 # Author
+
 #### [``Allen Ben Philipose``](https://abphilip.me/) - 18BIS0043
