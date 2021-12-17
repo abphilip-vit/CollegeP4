@@ -18,4 +18,4 @@ This segment focuses on showing the calculated values as a visual representation
   
 # Author
 
-#### [``Allen Ben Philipose``](https://abphilip.me/) - 18BIS0043
+#### [``Allen Ben Philipose``](https://allen.iykk.in/) - 18BIS0043
